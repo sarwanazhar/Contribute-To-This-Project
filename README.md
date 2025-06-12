@@ -71,7 +71,7 @@ If you are a new developer and you are wondering if you need to learn Git and Gi
 
 You are going to contribute a card just like this one to this [project's web page](https://syknapse.github.io/Contribute-To-This-Project/ 'https://syknapse.github.io/Contribute-To-This-Project'). It will include your name, your Twitter handle, a short description, and 3 links to useful resources for web developers that you recommend.
 
-You will make a copy of the card template inside the HTML file and customize it with your own information.
+You will make a copy of the card template inside the HTML file and customize it with your own information. 
 
 ---
 
